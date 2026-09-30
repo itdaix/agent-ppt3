@@ -1,0 +1,11 @@
+node_modules/
+*.log
+*.bak
+*.bak-*
+.DS_Store
+Thumbs.db
+desktop.ini
+ppt-library/
+work/
+.ai-output/
+.read-office/
